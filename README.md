@@ -24,4 +24,4 @@ I'm Suryakiran, a tech enthusiast passionate about Data Science and Machine Lear
 - 📧 Email: suryakiran.r8345@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/suryakiran-ranjith-b46097252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Feel free to explore my repositories and don't hesitate to reach out! Let's connect and learn together. 🌟
+Feel free to explore my repositories and don't hesitate to reach out! Let's connect and learn. 🌟
