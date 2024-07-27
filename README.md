@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Suryakiran, a tech enthusiast passionate about Data Science and Machine Learning. I enjoy tackling algorithmic challenges using C++ and leveraging Python for development projects.
+I'm Suryakiran, a tech enthusiast passionate about Web Development, Data Science and Machine Learning. I enjoy tackling algorithmic challenges using C++ and leveraging Python and Javascript for my developer journey.
 
 ## About Me
 
@@ -16,6 +16,7 @@ I'm Suryakiran, a tech enthusiast passionate about Data Science and Machine Lear
 
 ## Projects
 
+- 🟢🔴🟡🔵 Simon game: A memory game that challenges players to repeat increasingly complex sequences of flashing lights and sounds.
 - 🤖 DinoBot: An automation code for running the Chrome Dino game that plays when we go online.
 - 🚀 Boston Housing Prices using linear regression : Using Linear regression on the boston housing prices data set from Scikit-learn.
 
