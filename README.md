@@ -11,7 +11,7 @@ I'm Suryakiran, a tech enthusiast passionate about Data Science and Machine Lear
 
 ## Skills
 
-- **Languages:** C++, Python
+- **Languages:** C++, Javascript, Python, HTML, CSS
 - **Data Science:** Python libraries such as Pandas, NumPy, Scikit-Learn, Seaborn and Matplotlib 
 
 ## Projects
