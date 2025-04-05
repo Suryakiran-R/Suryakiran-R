@@ -18,7 +18,7 @@ I'm Suryakiran, a tech enthusiast passionate about Web Development, Data Science
 - 👥💻 Haiku: A Social media website built using the MERN stack 
 - 🌱 Agricure: A crop management website with disease prediction feature, built during the Smart India Hackathon (SIH)
 - 🟢🔴🟡🔵 Simon game: A memory game that challenges players to repeat increasingly complex sequences of flashing lights and sounds.
-- 🤖 DinoBot: An automation code for running the Chrome Dino game that plays when we go online.
+- 🤖 DinoBot: An automation code for running the Chrome Dino game commonly found when we go offline.
 - 🚀 Boston Housing Prices using linear regression : Using Linear regression on the boston housing prices data set from Scikit-learn.
 
 ## Connect with Me
